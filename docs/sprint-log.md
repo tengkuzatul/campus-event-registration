@@ -17,9 +17,9 @@ By the end of this lab my user stories have acceptance criteria and my README sh
 - Standup 2: [what I did / what is next / any blocker]
 
 ### Sprint review
-[What did you finish? What did you show a classmate?]
+I finish item no #1
 
 ### Retrospective
-- What went well:
-- What was difficult:
-- What I will change next time:
+- What went well: i undestand and can do well
+- What was difficult: it is too fast
+- What I will change next time: i will try to catch up fast
